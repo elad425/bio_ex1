@@ -17,7 +17,7 @@ The automaton can be run with **wrap-around** or **non-wrap** boundary condition
 | `menu.py` | The main interactive menu system. Allows selecting experiments and changing settings. |
 | `block_automaton.py` | Core automaton logic, rule application, animation, and metrics. |
 | `experiment_runner.py` | Defines and runs experiments using random or predefined patterns. |
-| `block_cellular_automaton_report.docx` | The full report with screenshots, analysis, and conclusions. |
+| `block_cellular_automaton_report.pdf` | The full report with screenshots, analysis, and conclusions. |
 | `menu.exe` | Standalone executable (if generated). No need to install Python. |
 
 ## 🚀 How to Run
