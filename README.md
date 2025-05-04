@@ -41,7 +41,7 @@ The automaton can be run with **wrap-around** or **non-wrap** boundary condition
 ### Using the Executable
 If you prefer not to run Python:
 
-1. Download `menu.exe` from here.
+1. press the `menu.exe` file. and then press downlad raw file
 2. Double-click to launch the menu system.
 
 No installation or internet required.
